@@ -1,4 +1,4 @@
-# 📋 Sistema de Cadastro de Usuários
+#  Sistema de Cadastro de Usuários
 
 Este é um projeto simples de **Cadastro de Usuários** desenvolvido com **HTML, CSS e JavaScript**.
 
@@ -7,7 +7,7 @@ Os dados são armazenados no **LocalStorage do navegador**.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Cadastrar usuário
 - Editar usuário
@@ -18,7 +18,7 @@ Os dados são armazenados no **LocalStorage do navegador**.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML
 - CSS
@@ -26,13 +26,13 @@ Os dados são armazenados no **LocalStorage do navegador**.
 
 ---
 
-## 💻 Como executar
+##  Como executar
 
 1. Baixe ou clone o repositório
 2. Abra o arquivo **index.html** no navegador
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Maicon Gomes
